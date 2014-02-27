@@ -1,4 +1,4 @@
 Icomania
 ========
 
-A guess card game written by assembly
+A guess card game written by assembly language.
